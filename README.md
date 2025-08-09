@@ -48,8 +48,8 @@ Sou um entusiasta da tecnologia com forte interesse na área de dados. Tenho exp
 
 ### 📊 **GitHub Stats**
 
-![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriborges&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriborges&layout=compact)
+![Yuri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yuriborges-dev&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriborges-dev&layout=compact)
 
 ---
 
