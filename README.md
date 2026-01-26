@@ -18,6 +18,7 @@ Sou um entusiasta da tecnologia com forte interesse na área de dados. Tenho exp
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
 
 **Backend**
 - Python
@@ -34,9 +35,9 @@ Sou um entusiasta da tecnologia com forte interesse na área de dados. Tenho exp
 ---
 
 ### 🌱 **Atualmente estudando**
-- Django Avançado
-- Bootstrap
-
+- Django REST
+- React
+  
 ---
 
 ### 📫 **Contato**
