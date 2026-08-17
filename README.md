@@ -2,7 +2,7 @@
 
 💻 **Desenvolvedor de Software** | 🐍 **Python** | ⚙️ **Back-end** | 🤖 **Automação & IA**
 
-Tecnólogo em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal Baiano, com interesse em desenvolvimento de software, back-end, automação, integração de sistemas e inteligência artificial.
+Graduado em **Análise e Desenvolvimento de Sistemas** pelo Instituto Federal Baiano, com interesse em desenvolvimento de software, back-end, automação, integração de sistemas e inteligência artificial.
 
 Gosto de transformar problemas em soluções através da tecnologia, criando aplicações funcionais, APIs e sistemas integrados.
 
